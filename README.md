@@ -3,7 +3,11 @@
 ■使用技術
 
 ■シミュレータ動画
-https://github.com/user-attachments/assets/8caacaf1-3944-42d3-8df6-3a6cfbfe18f9
+
+
+https://github.com/user-attachments/assets/717df68f-953f-4a63-8f34-a11da0c3764c
+
+
 
 ■開発の目的
 
